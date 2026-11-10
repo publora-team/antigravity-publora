@@ -1,0 +1,22 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "publora",
+  "displayName": "Publora",
+  "version": "1.0.0",
+  "description": "Draft, schedule and publish posts to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Facebook, Bluesky, Mastodon and Telegram from your agent.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Show which social accounts are connected to my Publora workspace",
+    "Write a LinkedIn post about the latest change in this repo and save it as a draft",
+    "Schedule this announcement for LinkedIn and Bluesky tomorrow at 10:00 my time"
+  ],
+  "author": {
+    "name": "Publora",
+    "email": "support@publora.com",
+    "url": "https://publora.com"
+  },
+  "homepage": "https://publora.com",
+  "repository": "https://github.com/publora-team/antigravity-publora",
+  "license": "MIT",
+  "keywords": ["publora", "social-media", "scheduling", "linkedin", "instagram", "tiktok", "marketing", "mcp"]
+}
